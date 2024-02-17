@@ -10,3 +10,6 @@ In this section, was used object-oriented programming.The following features wer
 - Displaying the number of questions
 - Score information
 - Timer line
+
+
+![Quiz-Box](./quiz-box.png "Quiz-Box")
